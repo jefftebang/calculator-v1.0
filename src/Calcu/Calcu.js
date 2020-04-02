@@ -117,7 +117,7 @@ const Calcu = () => {
                             style={{
                                 height:'180px'
                             }}>
-                            <div className='d-flex justify-content-start'>    
+                            <div className='d-flex justify-content-end'>    
                                 <span
                                     style={{
                                         fontSize:'70px',
